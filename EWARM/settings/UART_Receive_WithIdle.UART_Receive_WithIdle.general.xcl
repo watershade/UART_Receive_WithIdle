@@ -1,0 +1,23 @@
+"D:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\bin\armPROC.dll" 
+
+"D:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\bin\armSTLINK.dll" 
+
+"D:\Users\JohnH\STM32Cube\Repository\STM32Cube_FW_H7_V1.11.1\Projects\NUCLEO-H723ZG\Examples\UART\UART_Receive_WithIdle\EWARM\UART_Receive_WithIdle\Exe\UART_Receive_WithIdle.out" 
+
+--plugin="D:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\bin\armbat.dll" 
+
+--device_macro="D:\Program Files\IAR Systems\Embedded Workbench 9.2\arm/config/debugger/ST/STM32H7xx.dmac" 
+
+--device_macro="D:\Program Files\IAR Systems\Embedded Workbench 9.2\arm/config/debugger/ST/STM32H7xx_M7.dmac" 
+
+--device_macro="D:\Program Files\IAR Systems\Embedded Workbench 9.2\arm/config/debugger/ST/STM32H7xx_DBG.dmac" 
+
+--device_macro="D:\Program Files\IAR Systems\Embedded Workbench 9.2\arm/config/debugger/ST/STM32H7xx_OB.dmac" 
+
+--device_macro="D:\Program Files\IAR Systems\Embedded Workbench 9.2\arm/config/debugger/ST/STM32H7xx_TRACE.dmac" 
+
+--flash_loader="D:\Program Files\IAR Systems\Embedded Workbench 9.2\arm/config/flashloader/ST/FlashSTM32H72xxG.board" 
+
+
+
+

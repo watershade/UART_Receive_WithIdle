@@ -1,0 +1,12 @@
+!SESSION 2023-10-13 18:01:52.899 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.16.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\Users\JohnH\STM32Cube\Repository\STM32Cube_FW_H7_V1.11.1\Projects\NUCLEO-H723ZG\Examples\UART\UART_Receive_WithIdle\EWARM
+
+!ENTRY com.iar.cdt.arm.toolchain.cmsis.adapter 1 0 2023-10-13 18:02:05.806
+!MESSAGE Using CMSIS pack repositories: http://links.iar.com/cmsis/pack/
+
+!ENTRY com.iar.cmsismanager.product 1 0 2023-10-13 18:02:08.010
+!MESSAGE CMSIS Agent interface registered with service registry at ServiceLocation(host:\\.\pipe\iar-cspy-cpp-binary-com.iar.thrift.service.registry-fd4387f6-6ebe-4cb4-a36e-abc8f1291c86-1, port:0, protocol:Binary, transport:Pipe)

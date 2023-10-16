@@ -1,0 +1,4 @@
+MDK-ARM/DebugConfig/*
+MDK-ARM/RTE/*
+MDK-ARM/UART_Receive_WithIdle/*
+EWARM/UART_Receive_WithIdle/*
